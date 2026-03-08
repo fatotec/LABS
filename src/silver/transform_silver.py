@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 
+#testes 
 def process_silver_layer():
     # Caminhos (simulando o Data Lake)
     input_path = 'data/bronze/dados_brutos.parquet'
